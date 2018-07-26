@@ -1,0 +1,19 @@
+<h1>Signin</h1>
+
+<form action="#" onsubmit="signinClick(this.email.value, this.password.value); return false;">
+    
+    email: <input name="email" type="text" id="email">
+    password: <input name="password" type="password" id="password">
+   <input [hidden]="model.loading" type="submit">
+   <i [hidden]="!model.loading" class="fa fa-spinner" aria-hidden="true"></i>
+</form>
+
+<h1>Signup</h1>
+
+<form action="#" onsubmit="signupClick(this.email.value, this.password.value); return false;">
+    
+    email: <input name="email" type="text" id="email">
+    password: <input name="password" type="password" id="password">
+    <input [hidden]="model.loading" type="submit">
+    <i [hidden]="!model.loading" class="fa fa-spinner" aria-hidden="true"></i>
+</form>

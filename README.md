@@ -1,2 +1,2 @@
 # Angular-Design-Patterns
-Angular Design Patterns published by Packt
+Angular Design Patterns, published by Packt
