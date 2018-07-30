@@ -63,7 +63,7 @@ You can discover some of his works through his books: Expert Angular, Xamarin St
 ## Other books by the authors
 * [Expert Angular](https://www.packtpub.com/web-development/expert-angular?utm_source=github&utm_medium=repository&utm_campaign=9781785880230)
 * [Xamarin Studio for Android Programming: A C# Cookbook](https://www.packtpub.com/application-development/xamarin-studio-android-programming-c-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849691406)
-* [Magento Site Performance Optimization](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Magento Site Performance Optimization](https://www.packtpub.com/web-development/magento-site-performance-optimization?utm_source=github&utm_medium=repository&utm_campaign=9781783287055)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
