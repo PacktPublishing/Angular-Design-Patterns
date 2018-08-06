@@ -1,8 +1,8 @@
 # Angular Design Patterns
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/web-development/angular-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781786461728"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781786461728.png" alt="Angular Design Patterns" height="256px" align="right"></a>
 
-This is the code repository for [Angular Design Patterns](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Angular Design Patterns](https://www.packtpub.com/web-development/angular-design-patterns?utm_source=github&utm_medium=repository&utm_campaign=9781786461728), published by Packt.
 
 **Implement the Gang of Four patterns in your apps with Angular**
 
